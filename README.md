@@ -1,8 +1,6 @@
 Страница интернет-магазина
 ===
 
-![CI](https://github.com/BudTon/ra_components_store_func/actions/workflows/web.yml/badge.svg)
-
 [GitHub Pages](https://budton.github.io/ra_components_store_func/)
 
 
