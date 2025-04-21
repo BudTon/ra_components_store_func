@@ -1,6 +1,11 @@
 Страница интернет-магазина
 ===
 
+![CI](https://github.com/BudTon/ra_components_store_func/actions/workflows/web.yml/badge.svg)
+
+[GitHub Pages](https://budton.github.io/ra_components_store_func/)
+
+
 Необходимо создать React-компонент `ShopItemFunc` (функциональный компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
 ![Внешний вид страницы после реализации компонента](./res/preview.png)
 
